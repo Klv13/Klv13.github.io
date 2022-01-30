@@ -50,7 +50,8 @@ footer{
     margin-right: auto;
     padding-bottom: 2vh;
     padding-top: 2vh;
-    background-color: #77878b81
+    background-color: #77878b81;
+    text-align: center;
 }
 .Poot{
     font-size: 2vw;
@@ -81,4 +82,12 @@ a{
     padding-left: 20%;
     padding-bottom: 1vh;
     padding-top: 9vh;
+}
+.Futton{
+    width: 8vw;
+    height: 4vh;
+    background-color: #77878b;
+    border-color: #77878b;
+    color: #305252;
+    border: #373E40;
 }
