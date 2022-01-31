@@ -21,15 +21,16 @@ nav{
     padding-bottom: 3vh;
     align-items: center;
     align-content: center;
+    padding-top: 3vh;
+    text-align: center;
 }
 .totton{
-    margin-top: 3vh;
-    border: none;
-    background: none;
-    text-decoration: underline;
-    margin-left: 13vw;
-    margin-right: auto;
-    font-size: 3vh;
+       
+        text-decoration: underline;
+        margin-left: 3vw;
+        margin-right: 3vw;
+        font-size: 2vw;
+        color: #B7D5D4;
 }
 
 .con{
@@ -142,15 +143,12 @@ a{
         align-items: center;
         background-color: #305252;
         padding-bottom: 3vh;
+        text-align: center;
     }
     .totton{
-        margin-top: 3vh;
-        border: none;
-        background: none;
         text-decoration: underline;
-        margin-left: 13.5vw;
-        margin-right: auto;
         font-size: 3vh;
+        color: #B7D5D4;
     }
     .About{
         padding-top: 3vh;
@@ -245,22 +243,16 @@ a{
         margin-right: auto;
         padding-bottom: 10vh;
         align-items: center;
+       text-align: center;
     }
     nav{
         width: 100%;
-        margin-left: auto;
-        margin-right: auto;
         align-items: center;
-        background-color: #305252;
         padding-bottom: 3vh;
+        text-align: center;
     }
     .totton{
-        margin-top: 3vh;
-        border: none;
-        background: none;
         text-decoration: underline;
-        margin-left: 13vw;
-        margin-right: auto;
         font-size: 2vh;
     }
     .About{
