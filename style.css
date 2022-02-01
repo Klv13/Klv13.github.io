@@ -1,7 +1,25 @@
 body{
     background-color: #373E40;
 }
+.ProjNav{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    background-color: #77878b;
+    padding-bottom: 3vh;
+    align-items: center;
+    align-content: center;
+    text-align: center;
 
+
+}
+.potton{
+    text-decoration: underline;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    font-size: 1.5vw;
+    color: #B7D5D4;
+}
 
 .navn{
 
@@ -52,7 +70,7 @@ h1{
     text-align: center;
     color: #B7D5D4;
     font-family: Arial, Helvetica, sans-serif;
-    padding-bottom: 2vh;
+    padding-bottom: 1vh;
 
 }
 p{
@@ -150,6 +168,23 @@ a{
         font-size: 3vh;
         color: #B7D5D4;
     }
+    .ProjNav{
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+        background-color: #77878b;
+        padding-bottom: 3vh;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+    
+    
+    }
+    .potton{
+        text-decoration: underline;
+        font-size: 3vw;
+        color: #B7D5D4;
+    }
     .About{
         padding-top: 3vh;
         padding-bottom: 10vh;
@@ -161,7 +196,7 @@ a{
         text-align: center;
         color: #B7D5D4;
         font-family: Arial, Helvetica, sans-serif;
-        padding-bottom: 2vh;
+        padding-bottom: 1vh;
     
     }
     p{
@@ -255,6 +290,22 @@ a{
         text-decoration: underline;
         font-size: 2vh;
     }
+    .ProjNav{
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+        background-color: #77878b;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+    
+    
+    }
+    .potton{
+        text-decoration: underline;
+        font-size: 4vw;
+        color: #B7D5D4;
+    }
     .About{
         padding-top: 3vh;
         padding-bottom: 10vh;
@@ -266,7 +317,7 @@ a{
         text-align: center;
         color: #B7D5D4;
         font-family: Arial, Helvetica, sans-serif;
-        padding-bottom: 2vh;
+        padding-bottom: 1vh;
     
     }
     p{
