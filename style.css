@@ -152,7 +152,15 @@ a{
 @media screen and (max-width: 820px) {
     
     
+    .ppl{
     
+        font-size: 5vw;
+        text-align: center;
+        color: #B7D5D4;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-bottom: 1vh;
+    
+    }
     .navn{
     
         font-size: 10vw;
@@ -277,7 +285,15 @@ a{
 @media screen and (max-width: 767px) {
     
     
+    .ppl{
     
+        font-size: 5vw;
+        text-align: center;
+        color: #B7D5D4;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-bottom: 1vh;
+    
+    }
     .navn{
     
         font-size: 10vw;
