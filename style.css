@@ -1,6 +1,21 @@
 body{
     background-color: #373E40;
 }
+.top{
+    width: 50%;
+    margin-right: auto;
+    background-color: #30363865;
+    padding-bottom: 1vh;
+    padding-top: 1vh;
+    margin-top: 6vh;  
+}
+.toppon{
+    text-decoration: none;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    font-size: 3vw;
+    color: #B7D5D4;   
+}
 .ppl{
     
     font-size: 4vw;
