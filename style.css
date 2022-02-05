@@ -16,6 +16,9 @@ body{
     font-size: 3vw;
     color: #B7D5D4;   
 }
+.toppon:hover{
+    text-decoration: underline;
+}
 .ppl{
     
     font-size: 4vw;
@@ -32,6 +35,10 @@ body{
     margin-left: 25%;
     margin-top: 10%;
 
+}
+.Trimg:hover{
+    filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
+    transform: scale(1.1);
 }
 .ProjNav{
     margin-left: auto;
