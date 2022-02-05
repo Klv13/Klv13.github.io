@@ -1,6 +1,7 @@
 //Get the button:
-mybutton = document.getElementById("myBtn");
-Project = document.getElementById("PROJ")
+var mybutton = document.getElementById("myBtn");
+var Project = document.getElementById("PROJ");
+var CornerButton = document.getElementById("CornerButton")
 
 // When the user clicks on the button, scroll to the top of the document
 function topFunction() {

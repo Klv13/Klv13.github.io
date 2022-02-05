@@ -1,6 +1,25 @@
 body{
     background-color: #373E40;
 }
+.CornerButton{
+    position: fixed;
+    bottom: 2vh;
+    right: 2vw;
+    text-align: center;
+    width: 8vw;
+    height: 4vh;
+    background-color: #77878b;
+    border-color: #77878b;
+    color: #305252;
+    border: #373E40;
+    border-radius: 5%;
+    font-size: 1vw;
+}
+.CornerButton:hover{
+    color: #3c6666;
+    background-color: #93a7ac;
+    cursor: pointer;
+}
 .top{
     width: 50%;
     margin-right: auto;
@@ -168,6 +187,11 @@ a{
     color: #305252;
     border: #373E40;
 }
+.Futton:hover{
+    color: #3c6666;
+    background-color: #93a7ac;
+    cursor: pointer;
+}
 
 
 
@@ -182,6 +206,9 @@ a{
         font-family: Arial, Helvetica, sans-serif;
         padding-bottom: 1vh;
     
+    }
+    .CornerButton{
+        display: none;
     }
     .top{
         width: 50%;
