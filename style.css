@@ -17,6 +17,7 @@ body{
     border: #373E40;
     border-radius: 5%;
     font-size: 1vw;
+    transition: all 0.3s ease;
 }
 .CornerButton:hover{
     color: #3c6666;
@@ -36,7 +37,8 @@ body{
     margin-left: 3vw;
     margin-right: 3vw;
     font-size: 3vw;
-    color: #B7D5D4;   
+    color: #B7D5D4;
+    transition: all 0.3s ease;   
 }
 .toppon:hover{
     text-decoration: underline;
@@ -56,6 +58,7 @@ body{
     margin-right: 25%;
     margin-left: 25%;
     margin-top: 10%;
+    transition: all 0.3s ease;
 
 }
 .Trimg:hover{
@@ -189,6 +192,7 @@ a{
     border-color: #77878b;
     color: #305252;
     border: #373E40;
+    transition: all 0.3s ease;
 }
 .Futton:hover{
     color: #3c6666;
@@ -226,7 +230,8 @@ a{
         margin-left: 3vw;
         margin-right: 3vw;
         font-size: 4vw;
-        color: #B7D5D4;   
+        color: #B7D5D4; 
+        transition: all 0.3s ease;  
     }
     .navn{
     
